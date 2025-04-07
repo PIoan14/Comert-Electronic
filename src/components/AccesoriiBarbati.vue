@@ -345,7 +345,7 @@ export default {
       this.data[index]["quantity"] -= 1;
     },
     async take_data() {
-      fetch("http://localhost:3000/data")
+      fetch("https://comert-electronic.onrender.com/data")
         .then((response) => {
           if (!response.ok) {
             throw new Error("Network response was not ok");

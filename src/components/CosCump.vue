@@ -238,7 +238,7 @@ export default {
     async achita() {
       try {
         const response = await fetch(
-          "http://localhost:3000/payment",
+          "https://comert-electronic.onrender.com/payment",
           {
             method: "POST", // Metoda HTTP (POST)
             headers: {
