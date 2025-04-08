@@ -115,8 +115,8 @@ app.post("/payment", async (req, res) => {
       payment_method_types: ["card"],
       line_items: lineItems,
       mode: "payment",
-      success_url: "http://localhost:3000/success", // URL-ul de succes
-      cancel_url: "http://localhost:3000/fail_payment", // URL-ul de anulare
+      success_url: "https://comert-electronic.onrender.com", // URL-ul de succes
+      cancel_url: "https://comert-electronic.onrender.com/fail_payment", // URL-ul de anulare
     });
     console.log(session)
 
