@@ -121,7 +121,7 @@
                 </h3>
                 <div style="padding-top: 40px"></div>
 
-                <h3 style="font-size: 15px">
+                <h3 style="font-size: 15px" class="doar-desktop">
                   „În sport, omul își reia drepturile. Recucerește disciplina,
                   singura libertate dulce.” <br />
                   – Pierre Drieux La Rochelle.
@@ -142,7 +142,7 @@
           </div>
         </div>
 
-        <button>
+        <button class="doar-desktop">
           <a href="#sellers">SHOP NOW</a><i class="bx bx-right-arrow-alt"></i>
         </button>
 

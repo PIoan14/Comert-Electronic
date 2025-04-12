@@ -302,7 +302,15 @@ body {
     margin-right: 15px;
     font-size: 18px;
 }
+.doar-desktop {
+    display: none;
+  }
 
+  @media (min-width: 768px) {
+    .doar-desktop {
+      display: block;
+    }
+  }
 
 /* //........ Collections ........// */
 .header3{
