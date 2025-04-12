@@ -133,9 +133,9 @@
           </div>
         </div>
 
-        <button class="doar-desktop">
+        <!-- <button class="doar-desktop">
           <a href="#sellers">SHOP NOW</a><i class="bx bx-right-arrow-alt"></i>
-        </button>
+        </button> -->
 
         <div class="home_social_icons">
           <a href="#"><i class="bx bxl-facebook"></i></a>
